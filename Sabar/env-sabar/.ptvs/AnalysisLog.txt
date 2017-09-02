@@ -3631,3 +3631,7 @@ System.FormatException: Input string was not in a correct format.
 2017-08-27T12:50:28: Saving group "f:\django-project\sabar\sabar\env-sabar\lib\site-packages\pytz"
 2017-08-27T12:50:28: End of group "f:\django-project\sabar\sabar\env-sabar\lib\site-packages\pytz"
 2017-08-27T12:50:30: Deleting 0 files
+
+2017-09-02T12:48:42: Start analysis
+2017-09-02T12:48:42: IncludeModulesFromModulePath = win32com
+2017-09-02T12:48:43: Deleting 0 files
